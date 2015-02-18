@@ -7,8 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+
 import tera.nebelwolfi.tera.R;
-import tera.nebelwolfi.tera.main.web.*;
+import tera.nebelwolfi.tera.main.web.WebViewActivity;
 
 /**
  * Created by Nebelwolfi on 18.02.2015.
